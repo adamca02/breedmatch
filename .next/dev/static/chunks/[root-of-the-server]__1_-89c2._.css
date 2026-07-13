@@ -1,0 +1,768 @@
+/* [next]/internal/font/google/fraunces_d01c122f.module.css [app-client] (css) */
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/1e219c03c996efbd-s.2qo5md4hn_gum.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/b35b0dbffda7f2c4-s.1d9rlgtqyj_-l.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/03bda585a99c6450-s.p.32sris142tqlb.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/1e219c03c996efbd-s.2qo5md4hn_gum.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/b35b0dbffda7f2c4-s.1d9rlgtqyj_-l.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/03bda585a99c6450-s.p.32sris142tqlb.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/1e219c03c996efbd-s.2qo5md4hn_gum.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/b35b0dbffda7f2c4-s.1d9rlgtqyj_-l.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Fraunces;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/03bda585a99c6450-s.p.32sris142tqlb.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Fraunces Fallback;
+  src: local(Times New Roman);
+  ascent-override: 84.71%;
+  descent-override: 22.09%;
+  line-gap-override: 0.0%;
+  size-adjust: 115.45%;
+}
+
+.fraunces_d01c122f-module__jxXuIW__className {
+  font-family: Fraunces, Fraunces Fallback;
+  font-style: normal;
+}
+
+.fraunces_d01c122f-module__jxXuIW__variable {
+  --font-display: "Fraunces", "Fraunces Fallback";
+}
+
+/* [next]/internal/font/google/nunito_sans_58fd962e.module.css [app-client] (css) */
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f813d0b748b050e0-s.109ulqh0wub5u.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/dcd150d580a10316-s.02m2p-env-7db.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/d261779aa92de579-s.0slsd4dj30esv.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/24ce79ed121239f3-s.187m47s3z4syd.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f813d0b748b050e0-s.109ulqh0wub5u.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/dcd150d580a10316-s.02m2p-env-7db.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/d261779aa92de579-s.0slsd4dj30esv.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/24ce79ed121239f3-s.187m47s3z4syd.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f813d0b748b050e0-s.109ulqh0wub5u.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/dcd150d580a10316-s.02m2p-env-7db.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/d261779aa92de579-s.0slsd4dj30esv.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/24ce79ed121239f3-s.187m47s3z4syd.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f813d0b748b050e0-s.109ulqh0wub5u.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/dcd150d580a10316-s.02m2p-env-7db.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/d261779aa92de579-s.0slsd4dj30esv.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/24ce79ed121239f3-s.187m47s3z4syd.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Nunito Sans;
+  font-style: normal;
+  font-weight: 800;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/f141b5b7abe57afc-s.p.380f-mwhk0aej.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Nunito Sans Fallback;
+  src: local(Arial);
+  ascent-override: 99.71%;
+  descent-override: 34.82%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.39%;
+}
+
+.nunito_sans_58fd962e-module__vBuaWG__className {
+  font-family: Nunito Sans, Nunito Sans Fallback;
+  font-style: normal;
+}
+
+.nunito_sans_58fd962e-module__vBuaWG__variable {
+  --font-body: "Nunito Sans", "Nunito Sans Fallback";
+}
+
+/* [project]/app/globals.css [app-client] (css) */
+:root {
+  --bg: #f1f5f2;
+  --ink: #22312b;
+  --pine: #2e5941;
+  --pine-soft: #e3ede6;
+  --gold: #e3a24c;
+  --card: #fff;
+  --line: #d7e0d9;
+  --muted: #64766c;
+  --radius: 18px;
+  --shadow: 0 10px 30px #22312b14;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+}
+
+.shell {
+  flex-direction: column;
+  max-width: 760px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 32px 20px 80px;
+  display: flex;
+}
+
+.brand {
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 28px;
+  display: flex;
+}
+
+.brand h1 {
+  font-family: var(--font-display), serif;
+  letter-spacing: -.01em;
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.brand span {
+  color: var(--muted);
+  font-size: .85rem;
+}
+
+.paw-trail {
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 0 0 26px;
+  display: flex;
+}
+
+.paw {
+  opacity: .25;
+  width: 22px;
+  height: 22px;
+  transform: rotate(var(--tilt, 0deg)) scale(.9);
+  transition: opacity .35s, transform .35s;
+}
+
+.paw.done {
+  opacity: 1;
+  transform: rotate(var(--tilt, 0deg)) scale(1);
+}
+
+.paw.current {
+  opacity: 1;
+  transform: rotate(var(--tilt, 0deg)) scale(1.18);
+  filter: drop-shadow(0 2px 4px #e3a24c80);
+}
+
+.paw.done path {
+  fill: var(--pine);
+}
+
+.paw.current path {
+  fill: var(--gold);
+}
+
+.paw path {
+  fill: var(--muted);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 30px 28px;
+  animation: .35s both rise;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    animation: none;
+  }
+
+  .paw {
+    transition: none;
+  }
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--gold);
+  margin: 0 0 10px;
+  font-size: .72rem;
+  font-weight: 800;
+}
+
+.q-title {
+  font-family: var(--font-display), serif;
+  margin: 0 0 22px;
+  font-size: clamp(1.4rem, 3.5vw, 1.9rem);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.options {
+  gap: 10px;
+  display: grid;
+}
+
+.option {
+  text-align: left;
+  border: 1.5px solid var(--line);
+  background: var(--card);
+  font: inherit;
+  color: var(--ink);
+  cursor: pointer;
+  border-radius: 12px;
+  padding: 14px 16px;
+  font-weight: 600;
+  transition: border-color .15s, background .15s, transform .1s;
+}
+
+.option:hover {
+  border-color: var(--pine);
+  background: var(--pine-soft);
+}
+
+.option:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.option:active {
+  transform: scale(.99);
+}
+
+.option.selected {
+  border-color: var(--pine);
+  background: var(--pine-soft);
+}
+
+.nav-row {
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 22px;
+  display: flex;
+}
+
+.btn {
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  border-radius: 999px;
+  padding: 12px 26px;
+  font-weight: 800;
+  transition: transform .1s, background .15s;
+}
+
+.btn:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.btn:active {
+  transform: scale(.98);
+}
+
+.btn-primary {
+  background: var(--pine);
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: #24462f;
+}
+
+.btn-primary:disabled {
+  background: var(--line);
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+.btn-ghost {
+  color: var(--muted);
+  background: none;
+}
+
+.btn-ghost:hover {
+  color: var(--ink);
+}
+
+.btn-gold {
+  background: var(--gold);
+  color: #3a2c14;
+}
+
+.btn-gold:hover {
+  background: #d1902f;
+}
+
+.hero-title {
+  font-family: var(--font-display), serif;
+  letter-spacing: -.02em;
+  margin: 0 0 14px;
+  font-size: clamp(2.1rem, 6vw, 3.1rem);
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.hero-title em {
+  color: var(--pine);
+  font-style: italic;
+}
+
+.hero-sub {
+  color: var(--muted);
+  margin: 0 0 26px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.size-grid {
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 6px;
+  display: grid;
+}
+
+@media (max-width: 540px) {
+  .size-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.field label {
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--muted);
+  margin-bottom: 6px;
+  font-size: .8rem;
+  font-weight: 800;
+  display: block;
+}
+
+.field input[type="number"] {
+  width: 100%;
+  font: inherit;
+  border: 1.5px solid var(--line);
+  color: var(--ink);
+  background: #fff;
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-weight: 700;
+}
+
+.field input:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 1px;
+  border-color: var(--pine);
+}
+
+.hint {
+  color: var(--muted);
+  margin-top: 14px;
+  font-size: .85rem;
+}
+
+.sex-row {
+  flex-wrap: wrap;
+  gap: 10px;
+  display: flex;
+}
+
+.sex-row .option {
+  text-align: center;
+  flex: 1;
+  min-width: 130px;
+}
+
+.result-photo-wrap {
+  background: var(--pine-soft);
+  aspect-ratio: 4 / 3;
+  border-radius: 14px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  display: flex;
+  overflow: hidden;
+}
+
+.result-photo-wrap img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.photo-fallback {
+  font-size: 4rem;
+}
+
+.result-name {
+  font-family: var(--font-display), serif;
+  letter-spacing: -.01em;
+  margin: 0 0 4px;
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  font-weight: 700;
+}
+
+.chip-row {
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 18px;
+  display: flex;
+}
+
+.chip {
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  background: var(--pine-soft);
+  color: var(--pine);
+  border-radius: 999px;
+  padding: 5px 12px;
+  font-size: .75rem;
+  font-weight: 800;
+}
+
+.chip.gold {
+  color: #8a5a13;
+  background: #f8e9d2;
+}
+
+.result-desc {
+  margin: 0 0 8px;
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.size-line {
+  color: var(--muted);
+  margin: 0 0 20px;
+  font-size: .9rem;
+}
+
+.match-meter {
+  margin: 0 0 22px;
+}
+
+.match-meter .bar {
+  background: var(--pine-soft);
+  border-radius: 999px;
+  height: 10px;
+  overflow: hidden;
+}
+
+.match-meter .fill {
+  background: linear-gradient(90deg, var(--pine), var(--gold));
+  border-radius: 999px;
+  height: 100%;
+}
+
+.match-meter .pct {
+  margin-bottom: 6px;
+  font-size: .9rem;
+  font-weight: 800;
+}
+
+.runners {
+  border-top: 1px dashed var(--line);
+  margin-top: 24px;
+  padding-top: 18px;
+}
+
+.runners h3 {
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--muted);
+  margin: 0 0 12px;
+  font-size: .8rem;
+}
+
+.runner {
+  border-bottom: 1px solid var(--line);
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 9px 0;
+  font-weight: 700;
+  display: flex;
+}
+
+.runner:last-child {
+  border-bottom: none;
+}
+
+.runner .pct {
+  color: var(--pine);
+  font-size: .9rem;
+}
+
+.notice {
+  color: #7a5416;
+  background: #fdf3e3;
+  border: 1px solid #f0d9ae;
+  border-radius: 12px;
+  margin-bottom: 18px;
+  padding: 12px 16px;
+  font-size: .9rem;
+}
+
+/*# sourceMappingURL=%5Broot-of-the-server%5D__1_-89c2._.css.map*/
